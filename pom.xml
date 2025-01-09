@@ -85,7 +85,7 @@
         <jakarta.el.version>5.0.0</jakarta.el.version>
         <cdi-api.version>4.0.1</cdi-api.version>
         <cdi.tck.version>4.0.13</cdi.tck.version>
-        <weld.version>5.1.2.Final</weld.version>
+        <weld.version>5.0.1.payara-p1-SNAPSHOT</weld.version>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
     </properties>
